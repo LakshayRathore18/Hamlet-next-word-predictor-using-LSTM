@@ -11,6 +11,10 @@ A Deep Learning NLP project that predicts the next word in a text sequence using
 * Streamlit-based user interface
 * Saved model and tokenizer for inference
 
+## Live Demo
+
+🔗 [Hamlet Next Word Predictor](https://hamlet-next-word-predictor-using-lstm-7tmnzsdrzkdvhv9bgwwnjt.streamlit.app/)
+
 ## Tech Stack
 
 * Python
