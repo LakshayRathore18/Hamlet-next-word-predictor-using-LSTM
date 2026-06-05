@@ -35,13 +35,6 @@ Run the Streamlit app:
 streamlit run app.py
 ```
 
-Example:
-
-```text
-Input: To be or not to be
-Prediction: that
-```
-
 ## Project Structure
 
 ```text
